@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm RAJ KUMAR BHARDWAJ</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj06123" alt="raj06123" /></a> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 Software Engineer**
 
-- 💬 Ask me about **REACT JS, HTML5, CSS, JAVASCRIPT, BOOTSTRAP, JQUERY**
+- 💬 Ask me about **Angular, HTML5, CSS, JAVASCRIPT, BOOTSTRAP, Typescript**
 
 - 📫 How to reach me **rajbhardwaj0612@outlook.com**
 
